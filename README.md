@@ -1,5 +1,5 @@
 # movie-recommendation-API
-an API that recommends a movie in a given language, made with Django.
+an API that recommends a random movie in a given language, made with Django.
 
 Url extension format to send: /rec/<language_name>
 
